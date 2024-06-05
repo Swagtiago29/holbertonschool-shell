@@ -1,1 +1,2 @@
-ijua
+#!/bin/bash
+chown betty
